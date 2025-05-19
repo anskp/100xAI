@@ -1,0 +1,25 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int           @id @default(autoincrement())
+  username  String        @unique
+  password  String
+  chats     ChatMessage[]
+  createdAt DateTime      @default(now())
+}
+
+model ChatMessage {
+  id          Int      @id @default(autoincrement())
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId      Int
+  userMessage String   @db.Text
+  botResponse String   @db.Text
+  createdAt   DateTime @default(now())
+}
