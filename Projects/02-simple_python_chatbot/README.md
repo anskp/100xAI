@@ -60,7 +60,8 @@ The patterns are defined in the `chatbot.py` file and can be easily extended to 
 
 ## 📸 Screenshots
 
-(Coming soon)
+![Screenshot 2025-05-20 022125](https://github.com/user-attachments/assets/4c35fbce-1fa2-493e-b28a-804ef90f0055)
+
 
 ## 🔧 Customization
 
