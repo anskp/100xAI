@@ -1,8 +1,7 @@
 # 🤖 KoBot
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWprbTRya2dxNmVwYTNiaW93Z2RscndmNW51aTJ2bnhjZmM5aGduYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bukPWLcXAMYlpHW/giphy.gif" width="400px">
-  <h3>A simple chatbot interface for the Gemma 3-1B model</h3>
+  <h3>A simple chatbot interface for the Gemma 3-1B model using LM studio Locally</h3>
 </div>
 
 ## 📝 Description
@@ -79,7 +78,10 @@ When you send a message:
 
 ## 📸 Screenshots
 
-(Coming soon)
+![Screenshot 2025-05-21 010642](https://github.com/user-attachments/assets/1c9cc96f-8ab7-46bd-a49e-2b92f01995c1)
+
+![image](https://github.com/user-attachments/assets/31a365a8-a24a-49a7-b662-cceb2ce6f624)
+
 
 ## 🤝 Contributing
 
