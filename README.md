@@ -1,7 +1,6 @@
 # 🚀 100xAI 🧠
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw4a3Z5OHU4ejlnY3piODg5eGJ2NGVmbW9wd3F6YW91a2x1c2xyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4f2bZ4dzdojqJq/giphy.gif" width="500px">
   <h3>Building 100 AI, ML & Chatbot Projects, One Byte at a Time! 🤖</h3>
   <p><i>Because one AI project is never enough, and 1000 would take forever!</i></p>
 </div>
